@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Travis Le&#x27;s Site</title>
-    <link href="https://flat-uganda-flat.on-fleek.app/feed.xml" rel="self" />
-    <link href="https://flat-uganda-flat.on-fleek.app" />
+    <link href="https://travisle.on-fleek.app/feed.xml" rel="self" />
+    <link href="https://travisle.on-fleek.app" />
     <updated>2024-10-10T12:15:12+07:00</updated>
     <author>
         <name>Travis Le</name>
     </author>
-    <id>https://flat-uganda-flat.on-fleek.app</id>
+    <id>https://travisle.on-fleek.app</id>
 
     <entry>
         <title>Another fruit</title>
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://flat-uganda-flat.on-fleek.app/another-fruit/"/>
-        <id>https://flat-uganda-flat.on-fleek.app/another-fruit/</id>
-        <media:content url="https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg" medium="image" />
+        <link href="https://travisle.on-fleek.app/another-fruit/"/>
+        <id>https://travisle.on-fleek.app/another-fruit/</id>
+        <media:content url="https://travisle.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg" medium="image" />
             <category term="Fruits"/>
 
         <updated>2024-10-10T12:15:12+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg" alt="" />
+                        <img src="https://travisle.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg" alt="" />
                     Banana
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609.jpg" alt="" width="640" height="479" sizes="(max-width: 48em) 100vw, 768px" srcset="https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-md.jpg 768w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-lg.jpg 1024w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xl.jpg 1360w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-2xl.jpg 1600w"></figure>
+                    <p><img src="https://travisle.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://travisle.on-fleek.app/media/posts/10/Recovered_JPEG_609.jpg" alt="" width="640" height="479" sizes="(max-width: 48em) 100vw, 768px" srcset="https://travisle.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xs.jpg 300w ,https://travisle.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-sm.jpg 480w ,https://travisle.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-md.jpg 768w ,https://travisle.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-lg.jpg 1024w ,https://travisle.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xl.jpg 1360w ,https://travisle.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-2xl.jpg 1600w"></figure>
 <p>Banana</p>
             ]]>
         </content>
@@ -39,22 +39,22 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://flat-uganda-flat.on-fleek.app/pinapple/"/>
-        <id>https://flat-uganda-flat.on-fleek.app/pinapple/</id>
-        <media:content url="https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg" medium="image" />
+        <link href="https://travisle.on-fleek.app/pinapple/"/>
+        <id>https://travisle.on-fleek.app/pinapple/</id>
+        <media:content url="https://travisle.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg" medium="image" />
             <category term="Fruits"/>
 
         <updated>2024-10-10T11:21:30+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg" alt="" />
+                        <img src="https://travisle.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg" alt="" />
                     Pinapple is very good for your health.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612.jpg" alt="" width="640" height="477" sizes="(max-width: 48em) 100vw, 768px" srcset="https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-md.jpg 768w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-lg.jpg 1024w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xl.jpg 1360w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-2xl.jpg 1600w"></figure>
+                    <p><img src="https://travisle.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://travisle.on-fleek.app/media/posts/9/Recovered_JPEG_612.jpg" alt="" width="640" height="477" sizes="(max-width: 48em) 100vw, 768px" srcset="https://travisle.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xs.jpg 300w ,https://travisle.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-sm.jpg 480w ,https://travisle.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-md.jpg 768w ,https://travisle.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-lg.jpg 1024w ,https://travisle.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xl.jpg 1360w ,https://travisle.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-2xl.jpg 1600w"></figure>
 <p>Pinapple is very good for your health.</p>
             ]]>
         </content>
@@ -64,21 +64,21 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://flat-uganda-flat.on-fleek.app/new-article/"/>
-        <id>https://flat-uganda-flat.on-fleek.app/new-article/</id>
-        <media:content url="https://flat-uganda-flat.on-fleek.app/media/posts/7/28-1920.jpg" medium="image" />
+        <link href="https://travisle.on-fleek.app/new-article/"/>
+        <id>https://travisle.on-fleek.app/new-article/</id>
+        <media:content url="https://travisle.on-fleek.app/media/posts/7/28-1920.jpg" medium="image" />
             <category term="Food"/>
 
         <updated>2024-10-10T11:08:29+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://flat-uganda-flat.on-fleek.app/media/posts/7/28-1920.jpg" alt="" />
+                        <img src="https://travisle.on-fleek.app/media/posts/7/28-1920.jpg" alt="" />
                     Content of Food.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://flat-uganda-flat.on-fleek.app/media/posts/7/28-1920.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://travisle.on-fleek.app/media/posts/7/28-1920.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Content of Food.</p>
             ]]>
         </content>
@@ -88,22 +88,22 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://flat-uganda-flat.on-fleek.app/fruits/"/>
-        <id>https://flat-uganda-flat.on-fleek.app/fruits/</id>
-        <media:content url="https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920-2.jpg" medium="image" />
+        <link href="https://travisle.on-fleek.app/fruits/"/>
+        <id>https://travisle.on-fleek.app/fruits/</id>
+        <media:content url="https://travisle.on-fleek.app/media/posts/3/171-1920-2.jpg" medium="image" />
             <category term="Fruits"/>
 
         <updated>2024-10-10T11:00:13+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920-2.jpg" alt="" />
+                        <img src="https://travisle.on-fleek.app/media/posts/3/171-1920-2.jpg" alt="" />
                     This is 1 test for a fruit article.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920.jpg" alt="" width="344" height="215" sizes="(max-width: 48em) 100vw, 768px" srcset="https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-md.jpg 768w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-lg.jpg 1024w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-xl.jpg 1360w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-2xl.jpg 1600w"></figure>
+                    <p><img src="https://travisle.on-fleek.app/media/posts/3/171-1920-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://travisle.on-fleek.app/media/posts/3/171-1920.jpg" alt="" width="344" height="215" sizes="(max-width: 48em) 100vw, 768px" srcset="https://travisle.on-fleek.app/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://travisle.on-fleek.app/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://travisle.on-fleek.app/media/posts/3/responsive/171-1920-md.jpg 768w ,https://travisle.on-fleek.app/media/posts/3/responsive/171-1920-lg.jpg 1024w ,https://travisle.on-fleek.app/media/posts/3/responsive/171-1920-xl.jpg 1360w ,https://travisle.on-fleek.app/media/posts/3/responsive/171-1920-2xl.jpg 1600w"></figure>
 <p>This is 1 test for a fruit article.</p>
             ]]>
         </content>
@@ -113,20 +113,20 @@
         <author>
             <name>Travis Le</name>
         </author>
-        <link href="https://flat-uganda-flat.on-fleek.app/this-is-the-first-article/"/>
-        <id>https://flat-uganda-flat.on-fleek.app/this-is-the-first-article/</id>
-        <media:content url="https://flat-uganda-flat.on-fleek.app/media/posts/1/65-1920.jpg" medium="image" />
+        <link href="https://travisle.on-fleek.app/this-is-the-first-article/"/>
+        <id>https://travisle.on-fleek.app/this-is-the-first-article/</id>
+        <media:content url="https://travisle.on-fleek.app/media/posts/1/65-1920.jpg" medium="image" />
 
         <updated>2024-10-10T10:50:46+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://flat-uganda-flat.on-fleek.app/media/posts/1/65-1920.jpg" alt="" />
+                        <img src="https://travisle.on-fleek.app/media/posts/1/65-1920.jpg" alt="" />
                     Hello world !! This is the first post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://flat-uganda-flat.on-fleek.app/media/posts/1/65-1920.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://travisle.on-fleek.app/media/posts/1/65-1920.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hello world !! This is the first post.</p>
             ]]>
         </content>
