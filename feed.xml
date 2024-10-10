@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Travis Le&#x27;s Site</title>
+    <link href="https://travisle.github.io/travisle/feed.xml" rel="self" />
+    <link href="https://travisle.github.io/travisle" />
+    <updated>2024-10-10T11:36:11+07:00</updated>
+    <author>
+        <name>Travis Le</name>
+    </author>
+    <id>https://travisle.github.io/travisle</id>
+
+    <entry>
+        <title>Pinapple</title>
+        <author>
+            <name>Travis Le</name>
+        </author>
+        <link href="https://travisle.github.io/travisle/pinapple.html"/>
+        <id>https://travisle.github.io/travisle/pinapple.html</id>
+            <category term="Fruits"/>
+
+        <updated>2024-10-10T11:21:30+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Pinapple is very good for your health.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://travisle.github.io/travisle/media/posts/9/Recovered_JPEG_612.jpg" alt="" width="640" height="477" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://travisle.github.io/travisle/media/posts/9/responsive/Recovered_JPEG_612-xs.jpg 300w ,https://travisle.github.io/travisle/media/posts/9/responsive/Recovered_JPEG_612-sm.jpg 480w ,https://travisle.github.io/travisle/media/posts/9/responsive/Recovered_JPEG_612-md.jpg 768w"></figure>
+<p>Pinapple is very good for your health.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>New article</title>
+        <author>
+            <name>Travis Le</name>
+        </author>
+        <link href="https://travisle.github.io/travisle/new-article.html"/>
+        <id>https://travisle.github.io/travisle/new-article.html</id>
+        <media:content url="https://travisle.github.io/travisle/media/posts/7/28-1920.jpg" medium="image" />
+            <category term="Food"/>
+
+        <updated>2024-10-10T11:08:29+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://travisle.github.io/travisle/media/posts/7/28-1920.jpg" alt="" />
+                    Content of Food.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://travisle.github.io/travisle/media/posts/7/28-1920.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Content of Food.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fruits Article</title>
+        <author>
+            <name>Travis Le</name>
+        </author>
+        <link href="https://travisle.github.io/travisle/fruits.html"/>
+        <id>https://travisle.github.io/travisle/fruits.html</id>
+            <category term="Fruits"/>
+
+        <updated>2024-10-10T11:00:13+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://travisle.github.io/travisle/media/posts/3/171-1920.jpg" alt="" width="1920" height="1200" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-md.jpg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is the first article</title>
+        <author>
+            <name>Travis Le</name>
+        </author>
+        <link href="https://travisle.github.io/travisle/this-is-the-first-article.html"/>
+        <id>https://travisle.github.io/travisle/this-is-the-first-article.html</id>
+        <media:content url="https://travisle.github.io/travisle/media/posts/1/65-1920.jpg" medium="image" />
+
+        <updated>2024-10-10T10:50:46+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://travisle.github.io/travisle/media/posts/1/65-1920.jpg" alt="" />
+                    Hello world !! This is the first post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://travisle.github.io/travisle/media/posts/1/65-1920.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Hello world !! This is the first post.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
