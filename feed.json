@@ -14,7 +14,7 @@
             "url": "https://flat-uganda-flat.on-fleek.app/another-fruit/",
             "title": "Another fruit",
             "summary": "Banana",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609.jpg\" alt=\"\" width=\"640\" height=\"479\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-md.jpg 768w\"></figure>\n<p>Banana</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609.jpg\" alt=\"\" width=\"640\" height=\"479\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-md.jpg 768w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-lg.jpg 1024w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-xl.jpg 1360w ,https://flat-uganda-flat.on-fleek.app/media/posts/10/responsive/Recovered_JPEG_609-2xl.jpg 1600w\"></figure>\n<p>Banana</p>",
             "image": "https://flat-uganda-flat.on-fleek.app/media/posts/10/Recovered_JPEG_609-2.jpg",
             "author": {
                 "name": "Travis Le"
@@ -30,7 +30,7 @@
             "url": "https://flat-uganda-flat.on-fleek.app/pinapple/",
             "title": "Pinapple",
             "summary": "Pinapple is very good for your health.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612.jpg\" alt=\"\" width=\"640\" height=\"477\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-md.jpg 768w\"></figure>\n<p>Pinapple is very good for your health.</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612.jpg\" alt=\"\" width=\"640\" height=\"477\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-md.jpg 768w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-lg.jpg 1024w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-xl.jpg 1360w ,https://flat-uganda-flat.on-fleek.app/media/posts/9/responsive/Recovered_JPEG_612-2xl.jpg 1600w\"></figure>\n<p>Pinapple is very good for your health.</p>",
             "image": "https://flat-uganda-flat.on-fleek.app/media/posts/9/Recovered_JPEG_612-2.jpg",
             "author": {
                 "name": "Travis Le"
@@ -62,7 +62,7 @@
             "url": "https://flat-uganda-flat.on-fleek.app/fruits/",
             "title": "Fruits Article ABC",
             "summary": "This is 1 test for a fruit article.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920.jpg\" alt=\"\" width=\"344\" height=\"215\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-md.jpg 768w\"></figure>\n<p>This is 1 test for a fruit article.</p>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920.jpg\" alt=\"\" width=\"344\" height=\"215\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-md.jpg 768w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-lg.jpg 1024w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-xl.jpg 1360w ,https://flat-uganda-flat.on-fleek.app/media/posts/3/responsive/171-1920-2xl.jpg 1600w\"></figure>\n<p>This is 1 test for a fruit article.</p>",
             "image": "https://flat-uganda-flat.on-fleek.app/media/posts/3/171-1920-2.jpg",
             "author": {
                 "name": "Travis Le"
