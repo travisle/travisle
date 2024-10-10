@@ -10,11 +10,28 @@
     },
     "items": [
         {
-            "id": "https://travisle.github.io/travisle/pinapple.html",
-            "url": "https://travisle.github.io/travisle/pinapple.html",
+            "id": "https://travisle.github.io/travisle/another-fruit/",
+            "url": "https://travisle.github.io/travisle/another-fruit/",
+            "title": "Another fruit",
+            "summary": "Banana",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://travisle.github.io/travisle/media/posts/10/Recovered_JPEG_609.jpg\" alt=\"\" width=\"640\" height=\"479\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://travisle.github.io/travisle/media/posts/10/responsive/Recovered_JPEG_609-xs.jpg 300w ,https://travisle.github.io/travisle/media/posts/10/responsive/Recovered_JPEG_609-sm.jpg 480w ,https://travisle.github.io/travisle/media/posts/10/responsive/Recovered_JPEG_609-md.jpg 768w\"></figure>\n<p>Banana</p>",
+            "image": "https://travisle.github.io/travisle/media/posts/10/Recovered_JPEG_609-2.jpg",
+            "author": {
+                "name": "Travis Le"
+            },
+            "tags": [
+                   "Fruits"
+            ],
+            "date_published": "2024-10-10T12:15:12+07:00",
+            "date_modified": "2024-10-10T12:15:12+07:00"
+        },
+        {
+            "id": "https://travisle.github.io/travisle/pinapple/",
+            "url": "https://travisle.github.io/travisle/pinapple/",
             "title": "Pinapple",
             "summary": "Pinapple is very good for your health.",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://travisle.github.io/travisle/media/posts/9/Recovered_JPEG_612.jpg\" alt=\"\" width=\"640\" height=\"477\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://travisle.github.io/travisle/media/posts/9/responsive/Recovered_JPEG_612-xs.jpg 300w ,https://travisle.github.io/travisle/media/posts/9/responsive/Recovered_JPEG_612-sm.jpg 480w ,https://travisle.github.io/travisle/media/posts/9/responsive/Recovered_JPEG_612-md.jpg 768w\"></figure>\n<p>Pinapple is very good for your health.</p>",
+            "image": "https://travisle.github.io/travisle/media/posts/9/Recovered_JPEG_612-2.jpg",
             "author": {
                 "name": "Travis Le"
             },
@@ -22,11 +39,11 @@
                    "Fruits"
             ],
             "date_published": "2024-10-10T11:21:30+07:00",
-            "date_modified": "2024-10-10T11:36:11+07:00"
+            "date_modified": "2024-10-10T12:13:13+07:00"
         },
         {
-            "id": "https://travisle.github.io/travisle/new-article.html",
-            "url": "https://travisle.github.io/travisle/new-article.html",
+            "id": "https://travisle.github.io/travisle/new-article/",
+            "url": "https://travisle.github.io/travisle/new-article/",
             "title": "New article",
             "summary": "Content of Food.",
             "content_html": "<p>Content of Food.</p>",
@@ -41,10 +58,12 @@
             "date_modified": "2024-10-10T11:17:55+07:00"
         },
         {
-            "id": "https://travisle.github.io/travisle/fruits.html",
-            "url": "https://travisle.github.io/travisle/fruits.html",
-            "title": "Fruits Article",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://travisle.github.io/travisle/media/posts/3/171-1920.jpg\" alt=\"\" width=\"1920\" height=\"1200\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-md.jpg 768w\"></figure>",
+            "id": "https://travisle.github.io/travisle/fruits/",
+            "url": "https://travisle.github.io/travisle/fruits/",
+            "title": "Fruits Article ABC",
+            "summary": "This is 1 test for a fruit article.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://travisle.github.io/travisle/media/posts/3/171-1920.jpg\" alt=\"\" width=\"344\" height=\"215\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-xs.jpg 300w ,https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-sm.jpg 480w ,https://travisle.github.io/travisle/media/posts/3/responsive/171-1920-md.jpg 768w\"></figure>\n<p>This is 1 test for a fruit article.</p>",
+            "image": "https://travisle.github.io/travisle/media/posts/3/171-1920-2.jpg",
             "author": {
                 "name": "Travis Le"
             },
@@ -52,11 +71,11 @@
                    "Fruits"
             ],
             "date_published": "2024-10-10T11:00:13+07:00",
-            "date_modified": "2024-10-10T11:18:05+07:00"
+            "date_modified": "2024-10-10T12:14:14+07:00"
         },
         {
-            "id": "https://travisle.github.io/travisle/this-is-the-first-article.html",
-            "url": "https://travisle.github.io/travisle/this-is-the-first-article.html",
+            "id": "https://travisle.github.io/travisle/this-is-the-first-article/",
+            "url": "https://travisle.github.io/travisle/this-is-the-first-article/",
             "title": "This is the first article",
             "summary": "Hello world !! This is the first post.",
             "content_html": "<p>Hello world !! This is the first post.</p>",
